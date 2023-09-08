@@ -1,4 +1,4 @@
-[![MasterHead](./images/github-header_05.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
+[![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
 <!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
@@ -108,7 +108,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 </a>&nbsp;&nbsp;
 
 <a href="https://react.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo-01.png" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo.png" alt="react" width="46" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://nuxt.com" target="_blank">
@@ -116,7 +116,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 </a>&nbsp;&nbsp;
 
 <a href="https://nextjs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nextjs-logo.png" alt="nextjs, next 13, vercel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/next-logo-01.png" alt="nextjs, next 13, vercel" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://expressjs.com" target="_blank">
