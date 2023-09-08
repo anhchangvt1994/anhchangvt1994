@@ -1,3 +1,4 @@
+[![MasterHead](./images/github-header_02.jpg)](https://github.com/anhchangvt1994)
 <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3>
 
