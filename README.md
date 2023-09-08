@@ -1,6 +1,6 @@
 [![MasterHead](./images/github-header_03.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
-<h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
-<h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3>
+<!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
+<h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
 <h3>🤝 Nice to meet you</h3>
 <p>As a Frontend developer with 5+ years of experience; I have necessary skills for creating, managing, maintaining and extending the frontend resources. And I regularly do research on more of them. I believe that the creativity, teamwork and enthusiasm that I have will be a part of growing up for the company.</p>
