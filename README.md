@@ -1,4 +1,4 @@
-[![MasterHead](./images/github-header_03.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
+[![MasterHead](./images/github-header_05.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
 <!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
@@ -7,7 +7,7 @@
 
 <h3>📗 Education</h3>
 
-- 06/2021 - 06/2022 Sai Gon University
+- 2012 - 2017 SaiGon University - IT Software
 
 <h3>💼 Work</h3>
 
@@ -16,7 +16,7 @@
 - 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
 
 - 06 / 2018 - 06 / 2021 [Fado (Miczone Group)](https://fado.vn)
-  
+
 - 04 / 2017 - 06 / 2018 [Vietry Co.,LTD](https://vietry.com.vn)
 
 <h3>👨‍💻 Personal Projects</h3>
@@ -30,7 +30,7 @@
 - Create and integrate Web Scraping (using Puppeteer) into above projects. This project will help :
   - Automation in optimizing search engine rankings, thereby optimizing the website's competitiveness.
   - Easy to integrate and provide SSR capability, automatic SEO optimization for technologies that use pure client-side rendering techniques such as Vue, React.
- 
+
 <h5>Project repositories:</h5>
 
 1. [Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
@@ -99,12 +99,16 @@ If you are interested in knowing more about UI/UX projects that I have participa
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/typescript-logo.png" alt="typescript" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://jquery.com" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/jquery-logo.png" alt="jquery" width="38" height="40"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://vuejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/vue-logo.png" alt="vuejs, vue 3" width="46" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://react.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo.png" alt="react" width="46" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo-01.png" alt="react" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://nuxt.com" target="_blank">
@@ -112,19 +116,19 @@ If you are interested in knowing more about UI/UX projects that I have participa
 </a>&nbsp;&nbsp;
 
 <a href="https://nextjs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nextjs-logo.png" alt="nextjs, next 13, vercel" width="auto" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nextjs-logo.png" alt="nextjs, next 13, vercel" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/expressjs-logo.png" alt="express, express-js" width="auto" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/expressjs-logo.png" alt="express, express-js" width="127" height="28"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://pptr.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/puppeteer-logo.png" alt="puppeteer, google" width="auto" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/puppeteer-logo.png" alt="puppeteer, google" width="26.8" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://webpack.js.org" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/webpack-logo.png" alt="webpack" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/webpack-logo.png" alt="webpack" width="35" height="40"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://vitejs.dev" target="_blank">
@@ -132,7 +136,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 </a>&nbsp;&nbsp;
 
 <a href="https://gulpjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/gulp-logo.png" alt="gulp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/gulp-logo.png" alt="gulp" width="18" height="40"/>
 </a>
 </p>
 
