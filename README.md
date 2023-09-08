@@ -1,4 +1,4 @@
-[![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://github.com/anhchangvt1994)
+[![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing){:target="_blank"}
 <!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
@@ -31,7 +31,7 @@
   - Automation in optimizing search engine rankings, thereby optimizing the website's competitiveness.
   - Easy to integrate and provide SSR capability, automatic SEO optimization for technologies that use pure client-side rendering techniques such as Vue, React.
 
-<h5>Project repositories:</h5>
+**Project repositories:**
 
 1. [Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
 2. [Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
@@ -42,7 +42,7 @@
 7. [Automation SEO - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
 8. [Automation SEO - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
 
-<h5>Note :</h5>
+**Note :**
 <p>
 The personal projects I listed above belong to the group of projects that build tools to support frontend developers (website). It provides convenience, optimization, stability, and time-saving for developers, helping them focus more on Business  Logic, UI, and UX code. There are always templates available on the market like this, for example, when using Vue there will be VueCLI, React will have Create React App, even Vite has a repository of templates for you to choose from. And these personal projects of mine are exactly the "wheel" in the phrase "why are you reinventing the wheel?", but I am proud that I know how to make the best quality wheels for myself, and hopefully for many more people.
 
@@ -60,14 +60,14 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 <h3>Connect information</h3>
 
-📫 How to reach me **anhchangvt1994@gmail.com**
+📫 **anhchangvt1994@gmail.com**
 
-📄 Need [**My CV**](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing)
+📄 [**My CV**](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing)
 
-📞 Need my phone number **+8(494) 862-1519**
+📞 My phone number **+8(494) 862-1519**
 
 <h3>Social information</h3>
-<a href="https://linkedin.com/in/truong-nguyen-8780a523a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truong-nguyen-8780a523a" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/truong-nguyen-8780a523a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truong-nguyen-8780a523a" height="20" width="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -125,7 +125,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 <a href="https://pptr.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/puppeteer-logo.png" alt="puppeteer, google" width="26.8" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 
 <a href="https://webpack.js.org" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/webpack-logo.png" alt="webpack" width="35" height="40"/>
@@ -139,7 +139,3 @@ If you are interested in knowing more about UI/UX projects that I have participa
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/gulp-logo.png" alt="gulp" width="18" height="40"/>
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhchangvt1994&show_icons=true&locale=en&layout=compact" alt="anhchangvt1994" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhchangvt1994&show_icons=true&locale=en" alt="anhchangvt1994" /></p>
