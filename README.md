@@ -1,4 +1,4 @@
-[![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing){:target="_blank"}
+[![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing){target="_blank"}
 <!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
