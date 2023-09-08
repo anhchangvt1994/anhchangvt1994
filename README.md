@@ -21,7 +21,7 @@
 
 <h3>👨‍💻 Personal Projects</h3>
 
-08/2022 - current
+08/2022 - Present
 
 - Config and struct project using Webpack, Vue / React and Typescript. This project will help :
   - Provide configuration to optimize performance using Webpack (better chunk splitting, compression, formatting, syntax checking, and commit checking)
@@ -71,20 +71,69 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/html-logo.png" alt="html, html5" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/css-logo.png" alt="css, css3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/sass-logo.png" alt="sass" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/tailwind-logo.png" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/js-logo.png" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/typescript-logo.png" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/vue-logo.png" alt="vuejs, vue 3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo.png" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nuxt-logo.png" alt="nuxtjs, nuxt 3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/next-logo.png" alt="nextjs, next 13" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/express-logo.png" alt="express" width="40" height="40"/>
+<a href="https://www.w3schools.com/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/html-logo.png" alt="html, html5" width="35" height="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.w3schools.com/Css/" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/css-logo.png" alt="css, css3" width="35" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://sass-lang.com" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/sass-logo.png" alt="sass" width="53" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://tailwindcss.com" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/tailwind-logo.png" alt="tailwind" width="65" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/js-logo.png" alt="javascript" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.typescriptlang.org" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/typescript-logo.png" alt="typescript" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://vuejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/vue-logo.png" alt="vuejs, vue 3" width="46" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://react.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/react-logo.png" alt="react" width="46" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://nuxt.com" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nuxt-logo.png" alt="nuxtjs, nuxt 3" width="61" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://nextjs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/nextjs-logo.png" alt="nextjs, next 13, vercel" width="auto" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://expressjs.com" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/expressjs-logo.png" alt="express, express-js" width="auto" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://pptr.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/puppeteer-logo.png" alt="puppeteer, google" width="auto" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://webpack.js.org" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/webpack-logo.png" alt="webpack" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://vitejs.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/vite-logo.png" alt="vite" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://gulpjs.com" target="_blank">
 <img src="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/images/gulp-logo.png" alt="gulp" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhchangvt1994&show_icons=true&locale=en&layout=compact" alt="anhchangvt1994" /></p>
