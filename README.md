@@ -37,10 +37,10 @@
 2. [Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
 3. [Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
 4. [Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
-5. [Automation SEO - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping)
-6. [Automation SEO - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
-7. [Automation SEO - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
-8. [Automation SEO - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
+5. [Automatic SEO optimization - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping)
+6. [Automatic SEO optimization - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
+7. [Automatic SEO optimization - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
+8. [Automatic SEO optimization - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
 
 **Note :**
 <p>
