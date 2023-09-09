@@ -21,7 +21,7 @@
 
 <h3>👨‍💻 Personal Projects</h3>
 
-08/2022 - Present
+08 / 2022 - Present
 
 - Config and struct project using Webpack, Vue / React and Typescript. This project will help :
   - Provide configuration to optimize performance using Webpack (better chunk splitting, compression, formatting, syntax checking, and commit checking)
@@ -64,7 +64,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 📄 [**My CV**](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing)
 
-📞 My phone number **+8(494) 862-1519**
+📞 My phone number **+84 (94) 862-1519**
 
 <h3>Social information</h3>
 <a href="https://linkedin.com/in/truong-nguyen-8780a523a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truong-nguyen-8780a523a" height="20" width="20" /></a>
