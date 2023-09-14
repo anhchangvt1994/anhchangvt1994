@@ -9,7 +9,7 @@
 
 - 2012 - 2017 SaiGon University - IT Software
 
-<h3>💼 Work</h3>
+<h3><a href="https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing">💼 Work</a></h3>
 
 - 04 / 2023 - 06 / 2023 [ODA company](http://oda.vn)
 
