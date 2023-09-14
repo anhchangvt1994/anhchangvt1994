@@ -11,8 +11,6 @@
 
 <h3><a href="https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing">💼 Work</a></h3>
 
-- 04 / 2023 - 06 / 2023 [ODA company](http://oda.vn)
-
 - 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
 
 - 06 / 2018 - 06 / 2021 [Fado (Miczone Group)](https://fado.vn)
