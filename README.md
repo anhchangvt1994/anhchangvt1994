@@ -66,7 +66,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 <h3>Social information</h3>
 
-![Static Badge](https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey&link=https%3A%2F%2Flinkedin.com%2Fin%2Ftruong-nguyen-8780a523a)
+<a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 
