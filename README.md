@@ -27,7 +27,7 @@
 - Build a Web-Frontend Boilerplate by using Vite, Vue / React and Typescript
   - Provide configuration to optimize performance using Vite (better chunk splitting, compression, formatting, syntax checking, and commit checking)
 - Build a SEO-Automated Boilerplate (a Web-Frontend Boilerplate with SEO automation ability)
-  - Provide automatic SEO ability for CRS frameworks and also SSR frameworks. (See more in [here](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping#how-it-works) to know `How it works ?`)
+  - Provide automatic SEO ability for CRS frameworks and also SSR frameworks. ( Please see more in [here](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping#how-it-works) to know `How it works ?`)
 
 **Project repositories:**
 
@@ -68,7 +68,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 ![Static Badge](https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey&link=https://linkedin.com/in/truong-nguyen-8780a523a)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 #### Most Used
 ![Static Badge](https://img.shields.io/badge/logo-html-grey?style=for-the-badge&logo=html5&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-css-grey?style=for-the-badge&logo=css3&label=&labelColor=66c2ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-javascript-grey?style=for-the-badge&logo=javascript&label=&labelColor=808000&color=grey) ![Static Badge](https://img.shields.io/badge/logo-sass-grey?style=for-the-badge&logo=sass&label=&labelColor=ffe6f7&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vue-grey?style=for-the-badge&logo=vuedotjs&label=&labelColor=004d00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-jquery-grey?style=for-the-badge&logo=jquery&label=&labelColor=0099ff&color=grey)
