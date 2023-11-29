@@ -1,6 +1,6 @@
 [![MasterHead](./images/github-header_06.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
-> :sunny: By failing to prepare, you are preparing to fail. But sometimes you need to choose to bear more than half the failure you've already expected, rather than doing nothing.
+> :sunny: By failing to prepare, you are preparing to fail. Even if you expect to fail, it's still better to try than to give up.
 > <div style="text-align: right"><i>Benjamin Franklin and Robin Sharma</i></div>
 
 ### :handshake: Nice to meet you
