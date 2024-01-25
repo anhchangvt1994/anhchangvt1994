@@ -4,7 +4,6 @@
 > <div style="text-align: right"><i>Benjamin Franklin and Robin Sharma</i></div>
 
 ### :handshake: Nice to meet you
-<p>As a Frontend developer with 5+ years of experience; I have necessary skills for creating, managing, maintaining and extending the frontend resources. And I regularly do research on more of them.</p>
 
 ### :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
