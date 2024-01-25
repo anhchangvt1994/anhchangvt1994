@@ -6,10 +6,6 @@
 ### :handshake: Nice to meet you
 <p>As a Frontend developer with 5+ years of experience; I have necessary skills for creating, managing, maintaining and extending the frontend resources. And I regularly do research on more of them.</p>
 
-### :green_book: Education
-
-- 2012 - 2017 SaiGon University - IT Software
-
 ### :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
 - 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
@@ -55,6 +51,10 @@ If you are interested in knowing more about UI/UX projects that I have participa
   - [UI/UX code](https://github.com/anhchangvt1994/opia)
 3. [FVNBox JQuery plugins](https://github.com/anhchangvt1994/fvnBox). This project is also a "wheel" and I have created it with all the passion of my youth, when I was just starting out in the profession.
 4. VietKiem 3D - NextJS 13, styled-components, yup, React Hook Form for UI/UX
+
+### :green_book: Education
+
+- 2012 - 2017 SaiGon University - IT Software
 
 <h3>Connect information</h3>
 
