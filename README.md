@@ -9,14 +9,15 @@
 
 08 / 2022 - Present
 
-1. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
-2. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
-3. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
-4. [Web-Frontend Boilerplate - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
-5. [SEO-Automated Boilerplate - Webpack, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping)
-6. [SEO-Automated Boilerplate - Webpack, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
-7. [SEO-Automated Boilerplate - Vite, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
-8. [SEO-Automated Boilerplate - Vite, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
+1. [SEO-Automated Boilerplate - Webpack, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping)
+2. [SEO-Automated Boilerplate - Webpack, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
+3. [SEO-Automated Boilerplate - Vite, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
+4. [SEO-Automated Boilerplate - Vite, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
+---
+5. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
+6. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
+7. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
+8. [Web-Frontend Boilerplate - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
 
 **Short description:**
 - Build a Web-Frontend Boilerplate by using Webpack, Vue / React and Typescript. This project will help :
