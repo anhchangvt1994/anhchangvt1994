@@ -3,9 +3,21 @@
 > :sunny: By failing to prepare, you are preparing to fail. Even if you expect to fail, it's still better to try than to give up.
 > <div style="text-align: right"><i>Benjamin Franklin and Robin Sharma</i></div>
 
-### :handshake: Nice to meet you
+<h1 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Nice to meet you</h1>
 
-### :technologist: Personal Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My skills
+
+#### Most Used
+![Static Badge](https://img.shields.io/badge/logo-html-grey?style=for-the-badge&logo=html5&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-css-grey?style=for-the-badge&logo=css3&label=&labelColor=66c2ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-javascript-grey?style=for-the-badge&logo=javascript&label=&labelColor=808000&color=grey) ![Static Badge](https://img.shields.io/badge/logo-sass-grey?style=for-the-badge&logo=sass&label=&labelColor=ffe6f7&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vue-grey?style=for-the-badge&logo=vuedotjs&label=&labelColor=004d00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-jquery-grey?style=for-the-badge&logo=jquery&label=&labelColor=0099ff&color=grey)
+
+#### Commonly Used
+![Static Badge](https://img.shields.io/badge/logo-nuxt-grey?style=for-the-badge&logo=nuxtdotjs&label=&labelColor=ccffcc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-react-grey?style=for-the-badge&logo=react&label=&labelColor=e6ffff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-next-grey?style=for-the-badge&logo=nextdotjs&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-typescript-grey?style=for-the-badge&logo=typescript&label=&labelColor=b3ccff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-tailwind-grey?style=for-the-badge&logo=tailwindcss&label=&labelColor=ccf5ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-gulp-grey?style=for-the-badge&logo=gulp&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-webpack-grey?style=for-the-badge&logo=webpack&label=&labelColor=006680&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vite-grey?style=for-the-badge&logo=vite&label=&labelColor=b3b3ff&color=grey)
+
+#### Less Used
+
+![Static Badge](https://img.shields.io/badge/logo-express-grey?style=for-the-badge&logo=express&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-fastify-grey?style=for-the-badge&logo=fastify&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-uws-grey?style=for-the-badge&logo=&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-puppeteer-grey?style=for-the-badge&logo=puppeteer&label=&labelColor=ccfff2&color=grey)
+
+## :technologist: Personal Projects
 
 08 / 2022 - Present
 
@@ -13,11 +25,12 @@
 2. [SEO-Automated Boilerplate - Webpack, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
 3. [SEO-Automated Boilerplate - Vite, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
 4. [SEO-Automated Boilerplate - Vite, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
+5. [SEO-Automated server service - Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/web-scraping-seo-service)
 ---
-5. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
-6. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
-7. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
-8. [Web-Frontend Boilerplate - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
+6. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
+7. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
+8. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
+9. [Web-Frontend Boilerplate - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
 
 **Short description:**
 - Build a Web-Frontend Boilerplate by using Webpack, Vue / React and Typescript. This project will help :
@@ -34,7 +47,7 @@ The personal projects I listed above belong to the group of projects that build 
 If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at Fado and Go2joy. And some freelancer websites that I will list below.
 </p>
 
-### :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
+## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
 - 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
 
@@ -42,7 +55,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 - 04 / 2017 - 06 / 2018 [Vietry Co.,LTD](https://vietry.com.vn)
 
-### :technologist: Freelancer and UI/UX Projects
+## :technologist: Freelancer and UI/UX Projects
 
 1. [ShopTocXinh](http://shoptocxinh.vn) - HTML, CSS, Javascript and JQuery for UI/UX
 2. Opia is a personal UI/UX project, this project contains a design created by myself, and UI/UX by myself
@@ -51,7 +64,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 3. [FVNBox JQuery plugins](https://github.com/anhchangvt1994/fvnBox). This project is also a "wheel" and I have created it with all the passion of my youth, when I was just starting out in the profession.
 4. VietKiem 3D - NextJS 13, styled-components, yup, React Hook Form for UI/UX
 
-### :green_book: Education
+## :green_book: Education
 
 - 2012 - 2017 SaiGon University - IT Software
 
@@ -63,18 +76,6 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 :phone: **+84 (94) 862-1519**
 
-<h3>Social information</h3>
+## Social information
 
 <a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a>
-
-<h3 align="left">Languages and Tools</h3>
-
-#### Most Used
-![Static Badge](https://img.shields.io/badge/logo-html-grey?style=for-the-badge&logo=html5&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-css-grey?style=for-the-badge&logo=css3&label=&labelColor=66c2ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-javascript-grey?style=for-the-badge&logo=javascript&label=&labelColor=808000&color=grey) ![Static Badge](https://img.shields.io/badge/logo-sass-grey?style=for-the-badge&logo=sass&label=&labelColor=ffe6f7&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vue-grey?style=for-the-badge&logo=vuedotjs&label=&labelColor=004d00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-jquery-grey?style=for-the-badge&logo=jquery&label=&labelColor=0099ff&color=grey)
-
-#### Commonly Used
-![Static Badge](https://img.shields.io/badge/logo-nuxt-grey?style=for-the-badge&logo=nuxtdotjs&label=&labelColor=ccffcc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-react-grey?style=for-the-badge&logo=react&label=&labelColor=e6ffff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-next-grey?style=for-the-badge&logo=nextdotjs&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-typescript-grey?style=for-the-badge&logo=typescript&label=&labelColor=b3ccff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-tailwind-grey?style=for-the-badge&logo=tailwindcss&label=&labelColor=ccf5ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-gulp-grey?style=for-the-badge&logo=gulp&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-webpack-grey?style=for-the-badge&logo=webpack&label=&labelColor=006680&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vite-grey?style=for-the-badge&logo=vite&label=&labelColor=b3b3ff&color=grey)
-
-#### Less Used
-
-![Static Badge](https://img.shields.io/badge/logo-express-grey?style=for-the-badge&logo=express&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-fastify-grey?style=for-the-badge&logo=fastify&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-uws-grey?style=for-the-badge&logo=&label=&labelColor=001a00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-puppeteer-grey?style=for-the-badge&logo=puppeteer&label=&labelColor=ccfff2&color=grey)
