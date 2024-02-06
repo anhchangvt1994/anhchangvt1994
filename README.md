@@ -26,7 +26,7 @@
 3. [SEO-Automated Boilerplate - Vite, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
 4. [SEO-Automated Boilerplate - Vite, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
 5. [SEO-Automated server service - Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/web-scraping-seo-service)
----
+
 6. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__react-router)
 7. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
 8. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__react-router)
