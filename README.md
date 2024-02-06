@@ -68,7 +68,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 - 2012 - 2017 SaiGon University - IT Software
 
-<h3>Connect information</h3>
+## Connect information
 
 :mailbox_with_mail: **anhchangvt1994@gmail.com**
 
