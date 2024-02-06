@@ -44,7 +44,7 @@
 <p>
 The personal projects I listed above belong to the group of projects that build scaffolding to support web-frontend developers. It provides convenience, optimization, stability, and time-saving for developers, helping them focus more on Business  Logic, UI, and UX code. There are always templates available on the market like this, for example, when using Vue there will be VueCLI, React will have Create React App, even Vite has a repository of templates for you to choose from. And these personal projects of mine are exactly the "wheel" in the phrase "why are you reinventing the wheel?", but I am proud that I know how to make the best quality wheels for myself, and hopefully for many more people.
 
-If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at Fado and Go2joy. And some freelancer websites that I will list below.
+If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at [Fado (Miczone Group)](https://fado.vn), [Go2Joy company](https://go2joy.vn), [Vietry Co.,LTD](https://vietry.com.vn). And some freelancer websites that I will list below.
 </p>
 
 ## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
