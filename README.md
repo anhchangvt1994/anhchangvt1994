@@ -1,8 +1,9 @@
 [![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
 > :sunny: By failing to prepare, you are preparing to fail.
+> <br />
 > :sunny: Even if you expect to fail, it's still better to try than to give up.
-> <div align="right"><i>Benjamin Franklin and Robin Sharma</i></div>
+<div align="right"><i>Benjamin Franklin and Robin Sharma</i></div>
 
 <!-- <h1 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Nice to meet you</h1> -->
 
