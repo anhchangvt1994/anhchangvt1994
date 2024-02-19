@@ -1,3 +1,5 @@
+<div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a></div>
+
 [![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
 > :sunny: By failing to prepare, you are preparing to fail.
@@ -70,7 +72,3 @@ If you are interested in knowing more about UI/UX projects that I have participa
 :page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
 
 :phone: **+84 (94) 862-1519**
-
-## Social information
-
-<a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a>
