@@ -7,7 +7,7 @@
 
 <!-- <h1 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Nice to meet you</h1> -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My skills
+## My skills
 
 #### Most Used
 ![Static Badge](https://img.shields.io/badge/logo-html-grey?style=for-the-badge&logo=html5&label=&labelColor=ffd6cc&color=grey) ![Static Badge](https://img.shields.io/badge/logo-css-grey?style=for-the-badge&logo=css3&label=&labelColor=66c2ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-javascript-grey?style=for-the-badge&logo=javascript&label=&labelColor=808000&color=grey) ![Static Badge](https://img.shields.io/badge/logo-sass-grey?style=for-the-badge&logo=sass&label=&labelColor=ffe6f7&color=grey) ![Static Badge](https://img.shields.io/badge/logo-tailwind-grey?style=for-the-badge&logo=tailwindcss&label=&labelColor=ccf5ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vue-grey?style=for-the-badge&logo=vuedotjs&label=&labelColor=004d00&color=grey) ![Static Badge](https://img.shields.io/badge/logo-react-grey?style=for-the-badge&logo=react&label=&labelColor=e6ffff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-jquery-grey?style=for-the-badge&logo=jquery&label=&labelColor=0099ff&color=grey) ![Static Badge](https://img.shields.io/badge/logo-webpack-grey?style=for-the-badge&logo=webpack&label=&labelColor=006680&color=grey) ![Static Badge](https://img.shields.io/badge/logo-vite-grey?style=for-the-badge&logo=vite&label=&labelColor=b3b3ff&color=grey)
@@ -21,22 +21,23 @@
 
 ## :technologist: Personal Projects
 
-1. [SEO-Automated Boilerplate - Webpack, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping)
-2. [SEO-Automated Boilerplate - Webpack, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping)
-3. [SEO-Automated Boilerplate - Vite, Vue, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping)
-4. [SEO-Automated Boilerplate - Vite, React, Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping)
-5. [SEO-Automated server service - Typescript, Express, Fastify and uWebSockets](https://github.com/anhchangvt1994/web-scraping-seo-service)
+1. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping) - Webpack, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+2. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping) - Webpack, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+3. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping) - Vite, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+4. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping) - Vite, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+5. [Light-house automatic optimization server service](https://github.com/anhchangvt1994/web-scraping-seo-service) - Typescript, Express, Fastify, uWebSockets and Puppeteer
 
-6. [Web-Frontend Boilerplate - Webpack, Vue and Typescript](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__vue-router)
-7. [Web-Frontend Boilerplate - Webpack, React and Typescript](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router)
-8. [Web-Frontend Boilerplate - Vite, Vue and Typescript](https://github.com/anhchangvt1994/vite-project--template-vue-ts__vue-router)
-9. [Web-Frontend Boilerplate - Vite, React and Typescript](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router)
+6. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__vue-router) - Webpack, Vue and Typescript
+7. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router) - Webpack, React and Typescript
+8. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/vite-project--template-vue-ts__vue-router) - Vite, Vue and Typescript
+9. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/vite-project--template-react-ts__react-router) - Vite, React and Typescript
 
 **Short description:**
-- Build a Web-Frontend Boilerplate by using Webpack / Vite, Vue / React and Typescript. These projects will help :
+
+Build a Web-Frontend Boilerplate and Light-house automatic optimization proxy server. These projects will help :
   - Provide configuration to optimize performance using Webpack / Vite (better chunk splitting, compression, formatting, syntax checking, and commit checking)
-  - Provide automatic Lighthouse score and SEO ability for CRS frameworks and also SSR frameworks.
-  - Provide automatic Lighthouse score and SEO ability remote server service.
+  - Provide automatic optimization Lighthouse score.
+  - Provide SEO ability for CSR frontend frameworks.
 
 **Note :**
 <p>
