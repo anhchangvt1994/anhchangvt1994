@@ -1,6 +1,6 @@
 <div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a></div>
 
-[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
+[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
 
 > :sunny: By failing to prepare, you are preparing to fail.
 > <br />
@@ -48,7 +48,7 @@ The personal projects I listed above belong to the group of projects that build 
 If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at [Fado (Miczone Group)](https://fado.vn), [Go2Joy company](https://go2joy.vn), [Vietry Co.,LTD](https://vietry.com.vn). And some [freelancer websites](#technologist-freelancer-and-uiux-projects) that I will list below.
 </p>
 
-## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
+## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
 
 - 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
 
@@ -69,6 +69,6 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 :mailbox_with_mail: **anhchangvt1994@gmail.com**
 
-:page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV.pdf)
+:page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
 
 :phone: **+84 (94) 862-1519**
