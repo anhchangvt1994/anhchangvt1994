@@ -65,7 +65,7 @@ If you are interested in knowing more about UI/UX projects that I have participa
 3. [FVNBox JQuery plugins](https://github.com/anhchangvt1994/fvnBox). This project is also a "wheel" and I have created it with all the passion of my youth, when I was just starting out in the profession.
 4. VietKiem 3D - NextJS 13, styled-components, yup, React Hook Form for UI/UX
 
-## Connect information
+## Contact information
 
 :mailbox_with_mail: **anhchangvt1994@gmail.com**
 
