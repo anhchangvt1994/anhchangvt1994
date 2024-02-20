@@ -23,11 +23,11 @@
 
 ## :technologist: Personal Projects
 
-1. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping) - Webpack, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
-2. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping) - Webpack, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
-3. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping) - Vite, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
-4. [Light-house automatic optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping) - Vite, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
-5. [Light-house automatic optimization service](https://github.com/anhchangvt1994/web-scraping-seo-service) - Typescript, Express, Fastify, uWebSockets and Puppeteer
+1. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping) - Webpack, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+2. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping) - Webpack, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+3. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping) - Vite, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+4. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping) - Vite, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+5. [Light-house auto optimization service](https://github.com/anhchangvt1994/web-scraping-seo-service) - Typescript, Express, Fastify, uWebSockets and Puppeteer
 
 6. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__vue-router) - Webpack, Vue and Typescript
 7. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/webpack-project--template-react-ts__react-router) - Webpack, React and Typescript
@@ -36,7 +36,7 @@
 
 **Short description:**
 
-Build a Web-Frontend boilerplate and Light-house automatic optimization proxy server. These projects will help :
+Build a Web-Frontend boilerplate and Light-house auto optimization proxy server. These projects will help :
   - Provide configuration to optimize performance using Webpack / Vite (better chunk splitting, compression, formatting, syntax checking, and commit checking)
   - Provide automatic optimization Lighthouse score.
   - Provide SEO ability for CSR frontend frameworks.
