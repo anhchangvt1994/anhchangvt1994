@@ -1,6 +1,6 @@
-<div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a> <a href="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-07-2024.pdf"><img src="https://img.shields.io/badge/logo-cv-grey?style=for-the-badge&logo=googledrive&label=&labelColor=b9d1f9&color=grey" alt="CV" /></a></div>
+<div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a> <a href="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf"><img src="https://img.shields.io/badge/logo-cv-grey?style=for-the-badge&logo=googledrive&label=&labelColor=b9d1f9&color=grey" alt="CV" /></a></div>
 
-[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
+[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
 
 > :sunny: By failing to prepare, you are preparing to fail.
 > <br />
