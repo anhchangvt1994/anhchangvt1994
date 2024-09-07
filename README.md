@@ -48,13 +48,13 @@ The personal projects I listed above belong to the group of projects that build 
 If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at [Fado (Miczone Group)](https://fado.vn), [Go2Joy company](https://go2joy.vn), [Vietry Co.,LTD](https://vietry.com.vn). And some [freelancer websites](#technologist-freelancer-and-uiux-projects) that I will list below.
 </p>
 
-## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
+## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
 
-- 06 / 2021 - 06 / 2022 [Go2Joy company](https://go2joy.vn)
+- 2022 - 2023 [Go2Joy company](https://go2joy.vn)
 
-- 06 / 2018 - 06 / 2021 [Fado (Miczone Group)](https://fado.vn)
+- 2018 - 2022 [Fado (Miczone Group)](https://fado.vn)
 
-- 04 / 2017 - 06 / 2018 [Vietry Co.,LTD](https://vietry.com.vn)
+- 2017 - 2018 [Vietry Co.,LTD](https://vietry.com.vn)
 
 ## :technologist: Freelancer and UI/UX Projects
 
