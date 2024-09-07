@@ -69,6 +69,6 @@ If you are interested in knowing more about UI/UX projects that I have participa
 
 :mailbox_with_mail: **anhchangvt1994@gmail.com**
 
-:page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_NuxtJS_CV-2024.pdf)
+:page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
 
 :phone: **+84 (94) 862-1519**
