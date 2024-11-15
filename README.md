@@ -1,6 +1,6 @@
-<div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a> <a href="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf"><img src="https://img.shields.io/badge/logo-cv-grey?style=for-the-badge&logo=googledrive&label=&labelColor=b9d1f9&color=grey" alt="CV" /></a></div>
+<div align="right"><a href="https://www.linkedin.com/in/truong-nguyen-8780a523a"><img src="https://img.shields.io/badge/logo-linkedin-grey?style=for-the-badge&logo=linkedin&label=&labelColor=0066ff&color=grey" alt="linkedin" /></a> <a href="https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_CV.pdf"><img src="https://img.shields.io/badge/logo-cv-grey?style=for-the-badge&logo=googledrive&label=&labelColor=b9d1f9&color=grey" alt="CV" /></a></div>
 
-[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
+[![MasterHead](./images/github-header_07.jpg "Frontend portfolio! HTML, CSS, Javascript, Vue, React, Nuxt and Next")](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_CV.pdf)
 
 > :sunny: By failing to prepare, you are preparing to fail.
 > <br />
@@ -23,10 +23,10 @@
 
 ## :technologist: Personal Projects
 
-1. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping) - Webpack, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
-2. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping) - Webpack, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
-3. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping) - Vite, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
-4. [Light-house auto optimization boilerplate](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping) - Vite, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+1. [Dynamic Rendering Ultra Generation](https://github.com/anhchangvt1994/webpack-project-template-vue__seo-web-scraping) - Webpack, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+2. [Dynamic Rendering Ultra Generation](https://github.com/anhchangvt1994/webpack-project-template-react__seo-web-scraping) - Webpack, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
+3. [Dynamic Rendering Ultra Generation](https://github.com/anhchangvt1994/vite-project-template-vue__seo-web-scraping) - Vite, Vue, Typescript, Express, Fastify, uWebSockets and Puppeteer
+4. [Dynamic Rendering Ultra Generation](https://github.com/anhchangvt1994/vite-project-template-react__seo-web-scraping) - Vite, React, Typescript, Express, Fastify, uWebSockets and Puppeteer
 5. [Light-house auto optimization service](https://github.com/anhchangvt1994/web-scraping-seo-service) - Typescript, Express, Fastify, uWebSockets and Puppeteer
 
 6. [Web-Frontend boilerplate](https://github.com/anhchangvt1994/webpack-project--template-vue-ts__vue-router) - Webpack, Vue and Typescript
@@ -36,19 +36,16 @@
 
 **Short description:**
 
-Build a Web-Frontend boilerplate and Light-house auto optimization proxy server. These projects will help :
-  - Provide configuration to optimize performance using Webpack / Vite (better chunk splitting, compression, formatting, syntax checking, and commit checking)
-  - Provide automatic optimization Lighthouse score.
-  - Provide SEO ability for CSR frontend frameworks.
+The product provides a Frontend Web architecture that optimizes performance, saving time and costs and significantly enhances SEO capabilities for websites with full client-side rendering, improving user experience.
 
-**Note :**
-<p>
-The personal projects I listed above belong to the group of projects that build scaffolding to support web-frontend developers. It provides convenience, optimization, stability, and time-saving for developers, helping them focus more on Business  Logic, UI, and UX code. There are always templates available on the market like this, for example, when using Vue there will be VueCLI, React will have Create React App, even Vite has a repository of templates for you to choose from. And these personal projects of mine are exactly the "wheel" in the phrase "why are you reinventing the wheel?", but I am proud that I know how to make the best quality wheels for myself, and hopefully for many more people.
+##### The High-light features :
+  - Runtime config variable, auto-import, Splitting chunks, Compression resources, ESM external resource.
+  - Formatter, Code-lint, Pre-commit-lint.
+  - Dynamic-rendering - Significantly improves SEO capabilities for fully client-side rendered websites.
+  - Auto Optimize Lighthouse.
+  - API Caching - Faster page load times.
 
-If you are interested in knowing more about UI/UX projects that I have participated in, you can check out the websites that I have attached in the introduction of my work process at companies, specifically at [Fado (Miczone Group)](https://fado.vn), [Go2Joy company](https://go2joy.vn), [Vietry Co.,LTD](https://vietry.com.vn). And some [freelancer websites](#technologist-freelancer-and-uiux-projects) that I will list below.
-</p>
-
-## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
+## :briefcase: Work - [My CV is attached for your review](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_CV.pdf)
 
 - 2022 - 2023 [Go2Joy company](https://go2joy.vn)
 
@@ -65,10 +62,12 @@ If you are interested in knowing more about UI/UX projects that I have participa
 3. [FVNBox JQuery plugins](https://github.com/anhchangvt1994/fvnBox). This project is also a "wheel" and I have created it with all the passion of my youth, when I was just starting out in the profession.
 4. VietKiem 3D - NextJS 13, styled-components, yup, React Hook Form for UI/UX
 
+See more at my [repositories](https://github.com/anhchangvt1994?tab=repositories)
+
 ## Contact information
 
 :mailbox_with_mail: **anhchangvt1994@gmail.com**
 
-:page_facing_up: [**CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_VueJS_ReactJS_CV-2024.pdf)
+:page_facing_up: [**My CV**](https://raw.githubusercontent.com/anhchangvt1994/anhchangvt1994/main/NguyenMinhTruong_Frontend_CV.pdf)
 
-:phone: **+84 (94) 862-1519**
+:phone: **0869315900**
